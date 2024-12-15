@@ -1,0 +1,203 @@
+[
+   {
+      "en":"Alkali Metals",
+      "cs":"Alkalické kovy",
+      "description":"Alkalické kovy jsou velmi reaktivní prvky umístěné v první skupině periodické tabulky, kromě vodíku. Reagují s vodou a jsou měkké.",
+      "elements":[
+         "Li",
+         "Na",
+         "K",
+         "Rb",
+         "Cs",
+         "Fr"
+      ]
+   },
+   {
+      "en":"Alkaline Earth Metals",
+      "cs":"Zemně alkalické kovy",
+      "description":"Zemně alkalické kovy jsou umístěny ve druhé skupině periodické tabulky a jsou méně reaktivní než alkalické kovy.",
+      "elements":[
+         "Be",
+         "Mg",
+         "Ca",
+         "Sr",
+         "Ba",
+         "Ra"
+      ]
+   },
+   {
+      "en":"Transition Metals",
+      "cs":"Přechodné kovy",
+      "description":"Přechodné kovy jsou skupinou prvků ve středu periodické tabulky. Mají vysoké bodu tání a varu a jsou dobře tvarovatelné.",
+      "elements":[
+         "Sc",
+         "Ti",
+         "V",
+         "Cr",
+         "Mn",
+         "Fe",
+         "Co",
+         "Ni",
+         "Cu",
+         "Zn",
+         "Y",
+         "Zr",
+         "Nb",
+         "Mo",
+         "Tc",
+         "Ru",
+         "Rh",
+         "Pd",
+         "Ag",
+         "Cd",
+         "Hf",
+         "Ta",
+         "W",
+         "Re",
+         "Os",
+         "Ir",
+         "Pt",
+         "Au",
+         "Hg",
+         "Rf",
+         "Db",
+         "Sg",
+         "Bh",
+         "Hs",
+         "Mt",
+         "Ds",
+         "Rg",
+         "Cn",
+         "Nh",
+         "Fl",
+         "Mc",
+         "Lv",
+         "Ts",
+         "Og"
+      ]
+   },
+   {
+      "en":"Post-Transition Metals",
+      "cs":"Post-přechodné kovy",
+      "description":"Post-přechodné kovy jsou umístěny na pravém okraji přechodných kovů a mají vlastnosti mezi kovy a metaloidy.",
+      "elements":[
+         "Al",
+         "Ga",
+         "In",
+         "Sn",
+         "Tl",
+         "Pb",
+         "Bi",
+         "Nh",
+         "Fl",
+         "Mc",
+         "Lv",
+         "Ts"
+      ]
+   },
+   {
+      "en":"Metalloids",
+      "cs":"Polokovy",
+      "description":"Polokovy mají vlastnosti mezi kovy a nemetaly a jsou často používány jako polovodiče.",
+      "elements":[
+         "B",
+         "Si",
+         "Ge",
+         "As",
+         "Sb",
+         "Te",
+         "Po"
+      ]
+   },
+   {
+      "en":"Nonmetals",
+      "cs":"Nemetalické prvky",
+      "description":"Nemetalické prvky se vyskytují v pravé horní části periodické tabulky a jsou obvykle plynné nebo pevné za standardních podmínek.",
+      "elements":[
+         "H",
+         "C",
+         "N",
+         "O",
+         "F",
+         "P",
+         "S",
+         "Cl",
+         "Se",
+         "Br",
+         "I",
+         "At",
+         "Ts"
+      ]
+   },
+   {
+      "en":"Halogens",
+      "cs":"Halogeny",
+      "description":"Halogeny jsou vysoce reaktivní nemetalické prvky umístěné v předposlední skupině periodické tabulky.",
+      "elements":[
+         "F",
+         "Cl",
+         "Br",
+         "I",
+         "At",
+         "Ts"
+      ]
+   },
+   {
+      "en":"Noble Gases",
+      "cs":"Vzácné plyny",
+      "description":"Vzácné plyny jsou skupinou inertních plynů, které tvoří poslední skupinu periodické tabulky. Jsou velmi stabilní a nereaktivní.",
+      "elements":[
+         "He",
+         "Ne",
+         "Ar",
+         "Kr",
+         "Xe",
+         "Rn",
+         "Og"
+      ]
+   },
+   {
+      "en":"Lanthanides",
+      "cs":"Lanthanoidy",
+      "description":"Lanthanoidy jsou řada 15 prvků, které následují po lanthanu v periodické tabulce a jsou často používány v elektronice a výrobě slitin.",
+      "elements":[
+         "La",
+         "Ce",
+         "Pr",
+         "Nd",
+         "Pm",
+         "Sm",
+         "Eu",
+         "Gd",
+         "Tb",
+         "Dy",
+         "Ho",
+         "Er",
+         "Tm",
+         "Yb",
+         "Lu"
+      ]
+   },
+   {
+      "en":"Actinides",
+      "cs":"Actinoidy",
+      "description":"Actinoidy jsou řada 15 prvků, které následují po actiniu v periodické tabulce, a mnohé z nich jsou radioaktivní.",
+      "elements":[
+         "Ac",
+         "Th",
+         "Pa",
+         "U",
+         "Np",
+         "Pu",
+         "Am",
+         "Cm",
+         "Bk",
+         "Cf",
+         "Es",
+         "Fm",
+         "Md",
+         "No",
+         "Lr"
+      ]
+   }
+]
